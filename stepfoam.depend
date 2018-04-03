@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1522646949 source:e:\users\ben\documents\github\stepfoam\main.cpp
+	<iostream>
+	<StepLoader.h>
+
+1522732072 e:\users\ben\documents\github\stepfoam\include\steploader.h
+	<StepPart.h>
+	<map>
+	<string>
+
+1522646931 source:e:\users\ben\documents\github\stepfoam\src\steploader.cpp
+	"StepLoader.h"
+	<iostream>
+	<fstream>
+
+1522732222 e:\users\ben\documents\github\stepfoam\include\steppart.h
+	<string>
+
+1522731486 source:e:\users\ben\documents\github\stepfoam\src\steppart.cpp
+	"StepPart.h"
+
